@@ -1,0 +1,114 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 350px;
+  margin: 0 auto;
+  padding: 20px;
+  padding-bottom: 50px;
+  background-color: #F5F3E7;
+  border-radius: 20px;
+  color: #333333; 
+}
+
+.playlist {
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  max-width: 350px;
+  background-color: #ffffff;
+}
+
+.song {
+  margin-bottom: 10px;
+  padding: 15px;
+  background-color: #F5E2E4;
+  width: 325px;
+  border-radius: 10px;
+  border: 2px solid #ff745e;
+}
+
+.song-title {
+  color: #ff745e;
+  font-weight: bold;
+  margin: 0;
+  font-family: Quicksand;
+}
+
+.song-artist,
+.song-year {
+  color: #ff745e;
+  margin: 0;
+  font-family: Quicksand;
+}
+
+.podcast {
+  margin-bottom: 10px;
+  padding: 15px;
+  background-color: #e9f7fc;
+  width: 325px;
+  border-radius: 10px;
+  border: 2px solid #75e6da;
+  color: #333333;
+}
+
+.podcast-episode,
+.podcast-title {
+  color: #5ac1b6;
+  margin: 0;
+  font-family: Quicksand;
+}
+
+.nowPlaying,
+.playlistTitle {
+  font-family: Quicksand;
+  text-align: center;
+  color:#e4b780;
+  margin-bottom: 0px;
+}
+
+.status{
+  width: 350px;
+  text-align: center;
+  font-family: Quicksand;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.toolbar button {
+  display: block;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  color: #ff745e;
+  font-weight: bold;
+  outline: 2px solid #ff745e;
+  border-radius: 5px;
+  font-family: Quicksand;
+}
+
+.toolbar button:hover,
+.toolbar button:focus {
+  outline: 4px solid #5ac1b6;
+  border-radius: 5px;
+  font-family: Quicksand;
+  font-weight: bolder;
+  border-radius: 10px;
+  color: #5ac1b6;
+}
+
+.status {
+  font-family: Quicksand;
+  color:#e4b780;
+  font-weight: bold;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 15px;
+}

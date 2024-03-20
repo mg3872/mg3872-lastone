@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/info655-gisin4/static/css/main.d19a66ab.css",
+    "main.js": "/info655-gisin4/static/js/main.2826cd48.js",
+    "static/js/453.3f124c19.chunk.js": "/info655-gisin4/static/js/453.3f124c19.chunk.js",
+    "index.html": "/info655-gisin4/index.html",
+    "main.d19a66ab.css.map": "/info655-gisin4/static/css/main.d19a66ab.css.map",
+    "main.2826cd48.js.map": "/info655-gisin4/static/js/main.2826cd48.js.map",
+    "453.3f124c19.chunk.js.map": "/info655-gisin4/static/js/453.3f124c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d19a66ab.css",
+    "static/js/main.2826cd48.js"
+  ]
+}
