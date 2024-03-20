@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mg3872-lastone/static/css/main.d19a66ab.css",
+    "main.js": "/mg3872-lastone/static/js/main.990500d1.js",
+    "static/js/453.3f124c19.chunk.js": "/mg3872-lastone/static/js/453.3f124c19.chunk.js",
+    "index.html": "/mg3872-lastone/index.html",
+    "main.d19a66ab.css.map": "/mg3872-lastone/static/css/main.d19a66ab.css.map",
+    "main.990500d1.js.map": "/mg3872-lastone/static/js/main.990500d1.js.map",
+    "453.3f124c19.chunk.js.map": "/mg3872-lastone/static/js/453.3f124c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d19a66ab.css",
+    "static/js/main.990500d1.js"
+  ]
+}
